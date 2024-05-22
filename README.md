@@ -34,15 +34,15 @@ select * from users;
 
 INSERT INTO users (user_name, email, createdAt, batch)
 
-VALUES (‘karthik’,’karthi@gmail.com’,CURRENT_TIMESTAMP(),1),
+VALUES (‘vishnu’,’vishnu@gmail.com’,CURRENT_TIMESTAMP(),1),
 
-(‘gayu’,’gayu@gmail.com’,CURRENT_TIMESTAMP(),2),
+(‘thyu’,’thyu@gmail.com’,CURRENT_TIMESTAMP(),2),
 
-(‘maha’,’maha@gmail.com’,CURRENT_TIMESTAMP(),3),
+(‘jka’,’jka@gmail.com’,CURRENT_TIMESTAMP(),3),
 
-(‘mugilan’,’mugil@gmail.com’,CURRENT_TIMESTAMP(),4),
+(‘mil’,’mil@gmail.com’,CURRENT_TIMESTAMP(),4),
 
-(‘iniya’,’iniya@gmail.com’,CURRENT_TIMESTAMP(),5);
+(‘ghya’,’ghya@gmail.com’,CURRENT_TIMESTAMP(),5);
 
 — if u want to delete only table data use this query
 
@@ -188,17 +188,17 @@ mentor_email VARCHAR(100)
 
 INSERT INTO mentors(mentor_name, mentor_email) VALUES
 
-(“Surya”, “suryakumar@gmail.com”),
+(“Sundar”, “edsyakumar@gmail.com”),
 
-(“Viji” , “vijay@gmail.com”),
+(“Vj” , “dsajay@gmail.com”),
 
-(“arun”,”arun@gmail.com”),
+(“varun”,”gfdsn@gmail.com”),
 
-(“prabhu” ,”prabhu@gmail.com”);
+(“babhu” ,”pfdhu@gmail.com”);
 
 INSERT INTO mentors(mentorname, mentoremail) VALUES
 
-(“naga”,”naga@gmail.com”);
+(“naresh”,”hkfjaga@gmail.com”);
 
 select * from mentors;
 
